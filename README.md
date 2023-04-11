@@ -14,7 +14,7 @@
 ---
 
 ## Experiência Profissional:
-- PASCHOALOTTO Serviços Financeiros
+- PASCHOALOTTO Serviços Financeiros:
 Cargo: Acréscimo Extraordinário de Serviços - art. 9.º da lei 6.019/74.
 ● Negociação e acordos com clientes pessoas físicas e jurídicas inadimplentes com o Bradesco S.A.
 ● Elaboração e apresentação planilhas com os resultados obtidos.
