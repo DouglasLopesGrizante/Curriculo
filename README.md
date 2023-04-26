@@ -2,13 +2,13 @@
 # Dados Pessoais:
 - Nome: Douglas Henrique Lopes Grizante;
 - Nascimento: 24/01/1992;
-- Nome do pai: Edvaldo Grizante;
-- Nome da mãe: Angelica Regina Lopes;
+- Nome do pai:;
+- Nome da mãe: ;
 - Local de nascimento: Ribeirão Preto, SP;
-- CPF: 425.067.898.98;
-- RG: 31.454.524-9;
-- Telefone: (14) 998373866;
-- CEP: 17519-340;
+- CPF: ;
+- RG: ;
+- Telefone: ;
+- CEP: ;
 - Estado Civil: Solteiro;
 
 ---
