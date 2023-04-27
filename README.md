@@ -2,7 +2,7 @@
 # Dados Pessoais:
 - Nome: Douglas Henrique Lopes Grizante;
 - Nascimento: 24/01/1992;
-- Nome do pai: Alexandre Lopes;
+- Nome do pai: Alexandre Lopes Grizante;
 - Nome da mãe: Amanda Lopes;
 - Local de nascimento: Ribeirão Preto, SP;
 - CPF: 285.713.894.55;
